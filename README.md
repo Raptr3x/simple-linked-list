@@ -5,4 +5,4 @@ Example of a simple linked list in c++
 
 `./sli` is already complied version
 
-##[spdlog](https://github.com/gabime/spdlog) used for logging.
+## [spdlog](https://github.com/gabime/spdlog) used for logging.
