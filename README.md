@@ -1,4 +1,8 @@
 # simple-linked-list
 Example of a simple linked list in c++
 
-[spdlog](https://github.com/gabime/spdlog) used for logging.
+`g++ -o sll simple_linked_list.cpp -I"spdlog/include" && ./sll `
+
+`./sli` is already complied version
+
+##[spdlog](https://github.com/gabime/spdlog) used for logging.
