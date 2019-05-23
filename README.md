@@ -1,7 +1,7 @@
 # simple-linked-list
 Example of a simple linked list in c++
 
-`g++ -o sll simple_linked_list.cpp -I"spdlog/include" && ./sll `
+`g++ -o sll simple_linked_list.cpp -I"include" && ./sll `
 
 `./sli` is already complied version
 
